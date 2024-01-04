@@ -300,4 +300,13 @@ input[type="checkbox"]:checked {
     flex-direction: row;
     gap: 20px;
   }
+
+  .span_priority {
+    margin-left: 150px;
+    color: #8284fa;
+    font-size: 0.8rem;
+    font-weight: 200px;
+  }
+
+ 
 }
